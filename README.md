@@ -1,18 +1,20 @@
 # pygifconvt
 
 ## Table of Contents
-  * [Installation](#installation)
-  * [Quick start](#quick-start)
-  * [Features](#features)
+- [pygifconvt](#pygifconvt)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Quick start](#quick-start)
+  - [Features](#features)
   
 ## Installation
 
 Download using pip via pypi.
 
 ```bash
-$ pip install 'package' --upgrade
+$ pip install 'pygifconverter_fortest' --upgrade
   or
-$ pip install git+'repository'
+$ pip install git+'https://github.com/tony00613/pygifconverter_fortest.git'
 ```
 (Mac/homebrew users may need to use ``pip3``)
 
